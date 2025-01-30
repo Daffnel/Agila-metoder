@@ -6,7 +6,7 @@ Grupparbete i agilametoder
 ## Sprint planning Trello
 https://trello.com/b/kbyKw7ED/agila-metoder
 
-## Storyborad i miro 
+## Storyborad i Miro 
 https://miro.com/app/board/uXjVLubJD3o=/
 
 ##  Figma mock-up prototype
